@@ -3,8 +3,8 @@
 This is a solution to the [3-column preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/3column-preview-card-component-pH92eAR2-). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
 ## Table of contents
-  - [The challenge](#Build-a-three-column-card)
-  - [Built with](#HTML5)
+  - [#Build-a-three-column-card]
+  - [#HTML5]
 
 
 ## Overview
@@ -39,7 +39,7 @@ Media querry and Javascript
 
 ## Author
 
-- Twitter - [@double_dstwits](https://www.twitter.com/double_dstwits)
+- Twitter - [@double_dstwits](https://www.twitter.com/double_dstwitts)
 
 
 
