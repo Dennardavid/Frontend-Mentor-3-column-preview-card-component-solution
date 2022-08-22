@@ -18,8 +18,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://github.com/Dennardavid/Frontend-Mentor-3-column-preview-card-component-solution.git]
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution URL here](https://github.com/Dennardavid/Frontend-Mentor-3-column-preview-card-component-solution.git)
+- Live Site URL: [live site URL here](https://dennardavid.github.io/Frontend-Mentor-3-column-preview-card-component-solution/)
 
 
 ### Built with
