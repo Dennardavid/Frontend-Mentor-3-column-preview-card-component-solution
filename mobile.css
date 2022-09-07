@@ -5,6 +5,9 @@
 }
 .attribution { font-size: 12px; text-align: center; }
 .attribution a { color: hsl(228, 45%, 44%); }
+body{
+  background-color: hsl(0, 0%, 95%);
+}
 #cars {
   display: flex;
   flex-direction: column;
@@ -12,7 +15,6 @@
   align-items: center;
   padding-top: 25px;
   padding-bottom: 25px;
-  background-color: hsl(0, 0%, 95%);
 }
 #sedans,
 #suvs,
